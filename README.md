@@ -7,17 +7,25 @@
 ✨ Features
 
  • Basic arithmetic operations: addition, subtraction, multiplication, division
+ 
  • Power operations: square and cube of a number
+ 
  • Square root calculation (approximate integer root)
+ 
  • Decimal to binary conversion (0–9 only)
+ 
  • Input validation for division by zero
+
  • Loop-back mechanism for continuous operations
+ 
  • User-friendly interface using text prompts and macros
 
 Tools & Technologies
 
    x86 Assembly (MASM or TASM).
+   
    BIOS interrupt (INT 21h).
+   
    DOSBox for execution in modern environments.
 
 
