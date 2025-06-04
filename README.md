@@ -1,4 +1,4 @@
-# 🧮 Scientific Calculator (Assembly x86)
+# Scientific Calculator (Assembly x86)
 
 A command-line based scientific calculator developed in x86 Assembly Language. It supports both basic and advanced arithmetic operations using BIOS interrupts and macros, compiled with MASM or TASM. The calculator interacts with the user through keyboard input and text output on the console.
 
